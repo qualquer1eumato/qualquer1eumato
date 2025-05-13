@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [WebFy](https://github.com/WebFyJS)
+<!-- - 👯 I’m looking to collaborate on [WebFy](https://github.com/WebFyJS) -->
 
 - 📫 How to reach me **josueoliveira.dev@gmail.com**
 
